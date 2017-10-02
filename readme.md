@@ -1,7 +1,7 @@
 # iotaWayBack
 `iotaWayBack` is a tool for compiling a SQL database based on confirmed transactions, from past IOTA DBs.
 
-In addition, it's a tool to document the process I did, to create my copy of this SQL DB - a continuous database of confirmed transaction from **Oct. 4 2016 - Aug. 8 2017**.
+In addition, it's a tool to document the process I did, to create my copy of this SQL DB - a continuous database of confirmed transaction from **Oct. 4 2016 - Sept. 22 2017**.
 
 **if you only want to search my DB, without building your own - jump to `4.`** 
 ### from IRI to SQL:
