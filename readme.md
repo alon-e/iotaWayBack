@@ -1,12 +1,12 @@
 # iotaWayBack
 `iotaWayBack` is a tool for compiling a SQL database based on confirmed transactions, from past IOTA DBs.
 
-In addition, it's a tool to document the process I did, to create my copy of this SQL DB - a continuous database of confirmed transaction from **Oct. 4 2016 - Sept. 22 2017**.
+In addition, it's a tool to document the process I did, to create my copy of this SQL DB - a continuous database of confirmed transaction from **Oct. 4 2016 - Oct. 20 2017**.
 
 **if you only want to search my DB, without building your own - jump to `4.`** 
 ### from IRI to SQL:
  #### 1. obtaining past IOTA DBs:
- All pre-snapshot dbs can be found here: [http://alon-e.com/IOTA_DBs](http://alon-e.com/IOTA_DBs).
+ All pre-snapshot dbs can be found here: [http://store.alon-e.com/IOTA_DBs](http://store.alon-e.com/IOTA_DBs).
  
  More information on the DB collection process can be found [here](https://docs.google.com/spreadsheets/d/1cnSlLjfyHfpjXAzwOEpAk1w1zGc0dYP_mmATuctqN0s/edit#gid=0).  
  *credit to @lobeto, who reached out to veteran IOTA users to complete the missing DBs. 
