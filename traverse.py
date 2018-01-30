@@ -15,7 +15,7 @@ TIMEOUT = 7
 def API(request,url=url):
 
     stringified = json.dumps(request)
-    headers = {'content-type': 'application/json'}
+    headers = {'content-type': 'application/json', 'X-IOTA-API-Version': '1'}
 
     try:
         request = urllib2.Request(url=url, data=stringified, headers=headers)
